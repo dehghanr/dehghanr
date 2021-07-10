@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dehghanr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mohammad Dehghan-Rouzi
+- 👀 I’m interested in AI in Medical images
+- 🌱 I’m currently working on Breast cancer diagnosis via EfficientNet
+- 💞️ I’m looking to collaborate on AI in medical applications
+- 📫 How to reach me dehghanr.mohammad@gmail.com, dehghanr.mohammad@ut.ac.ir
 
 <!---
 dehghanr/dehghanr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
