@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammad Dehghan-Rouzi
+- 👋 Hi, I’m Mohammad Dehghan Rouzi
 - 👀 I’m interested in AI in Medical images
 - 🌱 I’m currently working on Breast cancer diagnosis via EfficientNet
 - 💞️ I’m looking to collaborate on AI in medical applications
