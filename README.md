@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Dehghan Rouzi
 - 👀 I’m interested in AI in Healthcare
-- 🌱 I’m currently working on Breast cancer diagnosis via EfficientNet
+- 🌱 I’m currently working on frailty assessment, ADHD, medical image analysis
 - 💞️ I’m looking to collaborate on AI in medical applications
 - 📫 How to reach me dehghanr.mohammad@gmail.com, mohammad.dehghanrouzi@bcm.edu
 <!---
